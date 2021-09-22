@@ -14,4 +14,5 @@ electrodynamics. Part 1: Classical approach*'.
                                                                 Use script '*(Section 5.2.1) 3D-Cavity Duo Special.wxmx*'
 
 Generally, the scripts are designed to be easily configurable: the last three scripts slightly differ from each other
-on initalisation stage. For convenience the individual copies have been made and configured for corresponding sections.
+on initalisation stage, as well as the first two ones. For convenience and simplicity, the individual copies have been
+made and set up for corresponding sections.
