@@ -16,3 +16,6 @@ electrodynamics. Part 1: Classical approach*'.
 Generally, the scripts are designed to be easily configurable: the last three scripts slightly differ from each other
 on initalisation stage, as well as the first two ones. For convenience and simplicity, the individual copies have been
 made and set up for corresponding sections.
+
+**Dependency**: all scripts rely on 'VCALC.MAC' package for CAS Maxima. File 'vcalc.mac' should be present either among
+maxima's search directories or besides the scripts.
