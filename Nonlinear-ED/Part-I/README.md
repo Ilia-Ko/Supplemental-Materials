@@ -19,3 +19,12 @@ made and set up for corresponding sections.
 
 **Dependency**: all scripts rely on 'VCALC.MAC' package for CAS Maxima. File 'vcalc.mac' should be present either among
 maxima's search directories or besides the scripts. A copy of 'VCALC.MAC' can be obtained from: https://homeweb.csulb.edu/~woollett/vcalc.mac
+
+**Backups**: As long as some calculations take too much time (especially when general indices are processed) all scripts
+export their results into external files. Note that some folders must be created manually before running each script for
+the first time (see details inside the scripts).
+
+The longest calculations are those for Section 5.2 and Section 5.2.1. Therefore, precomputed results (exported by the
+corresponding scripts) are available in folders 'TM + TE' and 'TM(110) + TE(011)' respectively. They can be loaded into
+scripts with the help of maxima's command *load(pathToFile)*, where one specifies 'pathToFile'. To begin with, try loading
+all files from selected folder (into proper script, of course) and then execute 'Stage III' only.
