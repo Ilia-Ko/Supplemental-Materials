@@ -18,4 +18,4 @@ on initalisation stage, as well as the first two ones. For convenience and simpl
 made and set up for corresponding sections.
 
 **Dependency**: all scripts rely on 'VCALC.MAC' package for CAS Maxima. File 'vcalc.mac' should be present either among
-maxima's search directories or besides the scripts.
+maxima's search directories or besides the scripts. A copy of 'VCALC.MAC' can be obtained from: https://homeweb.csulb.edu/~woollett/vcalc.mac
