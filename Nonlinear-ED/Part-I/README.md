@@ -14,7 +14,7 @@ electrodynamics: Classical approach'*.
                                                                 Use script *'(Section 5.2.1) 3D-Cavity Duo Special.wxmx*'
 
 Generally, the scripts are designed to be easily configurable: scripts 5.1 and 5.2.1 slightly differ from each other
-in initalisation cells, as well as the scripts 4.1 and 4.2. For convenience and simplicity, the individual copies have been
+in initialisation cells, as well as the scripts 4.1 and 4.2. For convenience and simplicity, the individual copies have been
 made and set up for corresponding sections.
 
 Script 5.2 functions also similar to 5.1 and 5.2.1, although it works with scalar equations instead of vector equations
@@ -31,4 +31,4 @@ The longest calculations are those for Sections 5.1, 5.2 and 5.2.1. Therefore, p
 corresponding scripts) are available in folders 'TM', 'TM + TE' and 'TM(110) + TE(011)' respectively. They can be loaded
 into their scripts with the help of maxima's command *load(pathToFile)*, where one specifies 'pathToFile'. To begin with,
 execute initialisation cells (3 cells in a script, marked with special comments), then try loading all files from folder
-(that belons to the script) and finally execute 'Stage III' only.
+(that belongs to the script) and finally execute 'Stage III' only.
